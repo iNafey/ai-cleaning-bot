@@ -1,2 +1,2 @@
 # ai-cleaning-bot
-A program that simulates an AI cleaning robot using Python
+Goal-based agent program that cleans objects like chairs and trolleys whilst avoid people.
